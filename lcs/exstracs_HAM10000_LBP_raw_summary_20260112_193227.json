@@ -1,0 +1,38 @@
+[
+  {
+    "dataset": "HAM10000",
+    "feature_family": "LBP",
+    "params": {
+      "N": 1500,
+      "learningIterations": 100000,
+      "theta_sel": 0.8
+    },
+    "mean_bal_acc": 0.1514832073221335,
+    "std_bal_acc": 0.0047180201282701435,
+    "timestamp": "2026-01-12T17:04:01.465667"
+  },
+  {
+    "dataset": "HAM10000",
+    "feature_family": "LBP",
+    "params": {
+      "N": 2000,
+      "learningIterations": 120000,
+      "theta_sel": 0.8
+    },
+    "mean_bal_acc": 0.14916335678246173,
+    "std_bal_acc": 0.0025578136169405003,
+    "timestamp": "2026-01-12T18:21:53.222679"
+  },
+  {
+    "dataset": "HAM10000",
+    "feature_family": "LBP",
+    "params": {
+      "N": 2000,
+      "learningIterations": 120000,
+      "theta_sel": 0.9
+    },
+    "mean_bal_acc": 0.15090943278862742,
+    "std_bal_acc": 0.004620748050267035,
+    "timestamp": "2026-01-12T19:32:27.615094"
+  }
+]
