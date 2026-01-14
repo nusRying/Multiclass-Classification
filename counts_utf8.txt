@@ -1,0 +1,29 @@
+
+Dataset: ham10000_color_raw.csv
+Total samples: 10015
+Class distribution:
+label
+0.0     327
+1.0     514
+2.0    1099
+3.0     115
+4.0    1113
+5.0    6705
+6.0     142
+Name: count, dtype: int64
+------------------------------
+
+Dataset: isic2019_color_raw.csv
+Total samples: 25331
+Class distribution:
+label
+0.0      867
+1.0     3323
+2.0     2624
+3.0      239
+4.0     4522
+5.0    12875
+6.0      628
+7.0      253
+Name: count, dtype: int64
+------------------------------

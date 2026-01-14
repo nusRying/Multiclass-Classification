@@ -1,0 +1,38 @@
+[
+  {
+    "dataset": "ISIC2019",
+    "feature_family": "GLCM",
+    "params": {
+      "N": 1500,
+      "learningIterations": 100000,
+      "theta_sel": 0.8
+    },
+    "mean_bal_acc": 0.12859943587876077,
+    "std_bal_acc": 0.0008504135946948042,
+    "timestamp": "2026-01-13T03:04:56.587666"
+  },
+  {
+    "dataset": "ISIC2019",
+    "feature_family": "GLCM",
+    "params": {
+      "N": 2000,
+      "learningIterations": 120000,
+      "theta_sel": 0.8
+    },
+    "mean_bal_acc": 0.12714968922997688,
+    "std_bal_acc": 0.0009432337296740543,
+    "timestamp": "2026-01-13T04:20:09.292532"
+  },
+  {
+    "dataset": "ISIC2019",
+    "feature_family": "GLCM",
+    "params": {
+      "N": 2000,
+      "learningIterations": 120000,
+      "theta_sel": 0.9
+    },
+    "mean_bal_acc": 0.1284693552910513,
+    "std_bal_acc": 0.0016866442184203302,
+    "timestamp": "2026-01-13T05:34:13.331438"
+  }
+]

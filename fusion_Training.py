@@ -195,13 +195,8 @@ if __name__ == "__main__":
 
     experiments = [
         # HAM10000
-        ("csv_outputs/ham10000_lbp_wavelet_fused.csv",
-         "HAM10000", "LBP+Wavelet"),
 
-        ("csv_outputs/ham10000_lbp_glcm_fused.csv",
-         "HAM10000", "LBP+GLCM"),
-
-        ("csv_outputs/ham10000_lbp_glcm_wavelet_fused.csv",
+        ("ham10000_lbp_glcm_wavelet_fused.csv",
          "HAM10000", "LBP+GLCM+Wavelet"),
     ]
 
